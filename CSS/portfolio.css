@@ -367,7 +367,7 @@ footer {
 }
 
 .Column_1 {
-  font-size: small;
+  font-size: 1px;
   float: left;
   width: 50%; /* This ensures the column takes up half of the page width */
   padding: 1%;
