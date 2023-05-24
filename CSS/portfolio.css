@@ -375,6 +375,10 @@ footer {
   background-color: #f2f2f2; /* Sets the background color of the left columns */
 }
 
+.Column_1 p {
+  font-size: 35px;
+}
+
 .Column_2 {
   float: left;
   width: 50%;
