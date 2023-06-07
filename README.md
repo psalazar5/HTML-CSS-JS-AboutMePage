@@ -1,6 +1,7 @@
 <h1> My Portfolio Webpage! </h1>
 
-<p>This is my portfolio website using html, css and javascript explaining about my self and my experience at The Tech Academy </p>
+<p>This is my portfolio website using HTML, CSS and JS explaining about my self and my experience at The Tech Academy </p>
+
 <p> You can view my webpage <a href="https://psalazar5.github.io/HTML-CSS-JS-AboutMePage/"> here!</a> </p>
 
 <p> Here are the tools below I used to create my page! </p>
